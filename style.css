@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(12, 162, 204);
+    text-align: center;  
+}
+
+.top, .bottom, .first-img, .second-img{
+   margin: 50px;
+}
+
+.first-img, .second-img{
+    display: inline-flex;
+}
+
+h1{
+    color: rgb(2, 62, 159);
+    font-size: 100px;
+}
+
